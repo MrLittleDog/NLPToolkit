@@ -1,2 +1,2 @@
 # NLPToolkit
-Natural language processing tools that I often use.
+The Chinese Natural Language Processing tools that I often use.
